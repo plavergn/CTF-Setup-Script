@@ -11,7 +11,7 @@
 <li>Do two gobuster dir (one with the dirb/common.txt wordlist and the other with dirbuster/directory-list-2.3-medium.txt wordlist)</li><br/>
 <li>Put the results of the dir scans in differents files on a folder (Gobuster)</li><br/>
 </ul>
- 
-<h3>You need to have "xdotool" installed. If not :</h3> 
 
-<code>$ sudo apt-get install xdotool</code>
+<h3>You need to have "xdotool" installed. If not :</h3>
+
+<code>sudo apt-get install xdotool</code>
